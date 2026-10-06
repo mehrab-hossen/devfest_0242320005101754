@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Production build output
+dist/
+
+# Logs
+*.log
+dev-server.log
+
+# Vercel
+.vercel/
+dist-ssr/
+
+# Local env files
+.env
+.env.local
+*.local
+
+# Editor / OS files
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
